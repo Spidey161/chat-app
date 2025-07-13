@@ -20,3 +20,11 @@ A simple real-time chat application built with **React**, **Node.js**, and **Soc
 git clone https://github.com/Spidey161/chat-app.git
 cd chat-app
 ```
+cd backend
+npm install
+node server.js
+
+
+cd frontend
+npm install
+npm start

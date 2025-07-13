@@ -22,7 +22,35 @@ cd chat-app
 ```
 ## Install backend dependencies:
 
-cd backend
-npm install
+-cd backend
+-npm install
+
+##  Start the backend server:
+
+-node server.js
+
+## Install frontend dependencies:
+
+-cd ../frontend
+-npm install
+
+## Start the frontend app:
+
+-npm start
+
+
+## 📡 WebSocket Events
+
+--Client → Server
+
+-join_room: Join a specific chat room
+
+-send_message: Emit a message to users in the same room
+
+--Server → Client
+-receive_message: Broadcasts message to everyone in that room
+
+
+
 
 

@@ -1,5 +1,17 @@
 # 💬 Real-Time Chat App
 
+* COMPANY* : CODTECH IT SOLUTIONS
+
+* NAME* : Manu yadav
+
+* INTERN ID* : CT06DF646
+
+* DOMAIN* : Full Stack Web Development
+ 
+* DURATION* : 6 WEEKS
+
+* MENTOR* : NEELA SANTHOSH KUMAR
+
 A simple real-time chat application built with **React**, **Node.js**, and **Socket.IO**.
 
 ## 🚀 Features
